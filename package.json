@@ -1,0 +1,17 @@
+{
+  "name": "importassets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "htmlspecialchars": "^1.0.5",
+    "jstoxml": "^1.4.3"
+  }
+}
